@@ -42,10 +42,19 @@
 
 
 ## <a href="http://www.atom.io/" target="_blank" name='editor_atom'>Atom</a>
-@Todo
+### Must-have tweaks
+- EditorConfig:
+    Enable .editorconfig file. Follow [this link](https://github.com/sindresorhus/atom-editorconfig#editorconfig) to get installation instructions
+@Tofinish
 
 ## <a href="https://www.jetbrains.com/phpstorm/" target="_blank" name='editor_phpstorm'>PHPStorm</a>
-@Todo
+### Must-have tweaks
+- EditorConfig:
+    Enable .editorconfig file. Follow [this link](https://plugins.jetbrains.com/plugin/7294) to download the tweak
+@Tofinish
 
 ## <a href="http://www.geany.org/" target="_blank" name='editor_geany'>Geany</a>
-@Todo
+### Must-have tweaks
+- EditorConfig:
+    Enable .editorconfig file. Follow [this link](https://github.com/editorconfig/editorconfig-geany#installation) to get installation instructions
+@Tofinish

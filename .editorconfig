@@ -12,6 +12,8 @@
 #
 # Domain specific parameters :
 # quote_type [single|double|auto] : set the type of quote to be used on literal strings (available on multiple quote styles languages)
+# spaces_around_brackets [none|inside|outside|both] : put spaces around bracket (both), before bracket (outside), after bracket (inside)
+# spaces_around_operators [true|false|hybrid] : if true, put spaces around operators
 #
 # For further informations, see https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Propertie
 
@@ -24,6 +26,8 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
+spaces_around_brackets = outside
+spaces_around_operators = true
 
 [*.md]
 trim_trailing_whitespace = false
@@ -35,5 +39,5 @@ tab_width = 4
 [*.html]
 indent_size = 2
 
-[*.php]
+[*.{php, js}]
 quote_type = single
