@@ -4,11 +4,11 @@
 
 1. [Installation](#installation)
 1. [Explanations](#explanations)
-1. Editors
-    [Sublime Text](#editor_st)
-    [Atom](#editor_atom)
-    [PHPStorm](#editor_phpstorm)
-    [Geany](#editor_geany)
+1. Editors<br>
+    [Sublime Text](#editor_st)<br>
+    [Atom](#editor_atom)<br>
+    [PHPStorm](#editor_phpstorm)<br>
+    [Geany](#editor_geany)<br>
 
 ## <a name='installation'>Installation</a>
 
@@ -26,19 +26,19 @@
 
 ## <a href="http://www.sublimetext.com/" target="_blank" name='editor_st'>Sublime Text</a>
 ### Must-have tweaks
-** You must install *Package Control* to be able to use tweaks. **
-* Follow [this link](https://packagecontrol.io/installation) to install Package Control*
+**You must install *Package Control* to be able to use tweaks.**
+*Follow [this link](https://packagecontrol.io/installation) to install Package Control*
 
 - Alignment:
-    &nbsp;&nbsp;Permits to align on one column each declarations (on = symbol for example)
+    Permits to align on one column each declarations (on = symbol for example)
 - BracketHighlighter:
-    &nbsp;&nbsp;Shows brackets in left sidebar (with line numbers) to see begin and end of statement / function.
+    Shows brackets in left sidebar (with line numbers) to see begin and end of statement / function.
 - EditorConfig:
-    &nbsp;&nbsp;Enable .editorconfig file
+    Enable .editorconfig file
 - PHPCS:
-    &nbsp;&nbsp;PHP Code Sniffer implementation (can implements *phpcs*, *phpcbf* and *phpmd*). You'll need some requirements, see [this repo](https://github.com/naoned/php-convention){:target="_blank"} to check how to install it.
+    PHP Code Sniffer implementation (can implements *phpcs*, *phpcbf* and *phpmd*). You'll need some requirements, see [this repo](https://github.com/naoned/php-convention) to check how to install it.
 - PlainTasks:
-    &nbsp;&nbsp;Adds a TODOList file type management
+    Adds a TODOList file type management
 
 
 ## <a href="http://www.atom.io/" target="_blank" name='editor_atom'>Atom</a>
