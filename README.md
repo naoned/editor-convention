@@ -24,40 +24,52 @@ The .editorconfig passes configurations directly to your editor without the need
 
 ## Editors
 
-## <a href="http://www.sublimetext.com/" target="_blank" name='editor_st'>Sublime Text</a>
+## [Sublime Text](http://www.sublimetext.com/)
 ### Must-have tweaks
 **You must install *Package Control* to be able to use these tweaks.**
 *Follow [this link](https://packagecontrol.io/installation) to install Package Control*
 
-- Alignment:
-  > This lets you hit `COMMAND-CTRL-A` to align your PHP code with spaces.
-  > Usage: use it to align arrays and variables nicely to keep code readable.
-- BracketHighlighter:
-  > Highlights the brackets of your current scope.
-  > ie: Place your cursor in a function and see the function {} highlighted.
-- EditorConfig:
-  > Enable .editorconfig file support.
-- PHPCS:
-  > PHP Code Sniffer implementation (can implements *phpcs*, *phpcbf* and *phpmd*).
-  > You'll need some requirements, see [this repo](https://github.com/naoned/php-convention) to check how to install it.
-- PlainTasks:
-  > Adds a TODOList file type management
+- **Alignment**:
+    > This lets you hit `COMMAND-CTRL-A` to align your PHP code with spaces.
+    > Usage: use it to align arrays and variables nicely to keep code readable.
+
+- **BracketHighlighter**:
+    > Highlights the brackets of your current scope.
+    > ie: Place your cursor in a function and see the function {} highlighted.
+
+- **EditorConfig**:
+    > Enable .editorconfig file support.
+
+- **PHPCS**:
+    > PHP Code Sniffer implementation (can implements *phpcs*, *phpcbf* and *phpmd*).
+    > You'll need some requirements, see [this repo](https://github.com/naoned/php-convention) to check how to install it.
+
+- **PlainTasks**:
+    > Adds a TODOList file type management
 
 
-## <a href="http://www.atom.io/" target="_blank" name='editor_atom'>Atom</a>
+## [Atom](http://www.atom.io/)
 ### Must-have tweaks
-- EditorConfig:
+
+- **EditorConfig**:
   > Enable .editorconfig file. Follow [this link](https://github.com/sindresorhus/atom-editorconfig#editorconfig) to get the installation instructions
+
 @Tofinish
 
-## <a href="https://www.jetbrains.com/phpstorm/" target="_blank" name='editor_phpstorm'>PHPStorm</a>
+## [PHPStorm](https://www.jetbrains.com/phpstorm/)
 ### Must-have tweaks
-- EditorConfig:
+
+- **EditorConfig**:
+
   > Enable .editorconfig file. Follow [this link](https://plugins.jetbrains.com/plugin/7294) to download the tweak
+
 @Tofinish
 
-## <a href="http://www.geany.org/" target="_blank" name='editor_geany'>Geany</a>
+## [Geany](http://www.geany.org/)
 ### Must-have tweaks
-- EditorConfig:
+
+- **EditorConfig**:
+
   > Enable .editorconfig file. Follow [this link](https://github.com/editorconfig/editorconfig-geany#installation) to get installation instructions
+
 @Tofinish
