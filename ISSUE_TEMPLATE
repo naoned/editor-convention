@@ -1,0 +1,64 @@
+<!-- NE RIEN MODIFIER SOUS CETTE LIGNE ! -->
+<!-- Instructions : valider ce commentaire, puis cocher les cases correspondantes -->
+
+**Produit** 
+
+ - [x]  [PRD_001] Mnesys
+ - [ ]  [PRD_002] Seisan 
+
+**Module**
+ - [ ] [MOD_001] Contrôle
+ - [ ] [MOD_002] Collecte
+ - [ ] [MOD_003] Classement
+ - [ ] [MOD_004] Conservation
+ - [ ] [MOD_005] Communication
+ - [ ] [MOD_006] Administration
+ - [ ] [MOD_007] Portail interne
+
+**Système d'exploitation**
+ - [ ] [OPS_001] iOS
+ - [ ] [OPS_002] Android
+ - [ ] [OPS_003] Linux
+ - [ ] [OPS_004] Windows XP
+ - [ ] [OPS_005] Windows Vista
+ - [ ] [OPS_006] Windows 7
+ - [ ] [OPS_007] Windows 8
+ - [ ] [OPS_008] Windows 10
+
+**Navigateur**
+ - [ ] [NAV_001] Safari
+ - [ ] [NAV_002] Chrome
+ - [ ] [NAV_003] Firefox
+ - [ ] [NAV_004] IE 9
+ - [ ] [NAV_005] IE 10
+ - [ ] [NAV_006] IE 11
+ - [ ] [NAV_007] Edge
+ - [ ] [NAV_008] Opera
+
+**Typologies de problèmes**
+ - [ ] [TYP_001] La fonctionnalité existe mais n'a pas été trouvée
+ - [ ] [TYP_002] Problème de fichier manquant
+ - [ ] [TYP_003] Problème dans les XMU
+ - [ ] [TYP_004] Problème de migration (script, ...)  
+
+ Problème de conception du code
+  - [ ] [TYP_005] Code incomplet
+  - [ ] [TYP_006] Code avec erreur
+  - [ ] [TYP_007] Nouvelle fonctionnalité qui casse une ancienne (régression)
+
+ Problème dans le déploiement automatique
+  - [ ] [TYP_008] Mauvais accés
+  - [ ] [TYP_009] Service qui n'est pas lancé
+ 
+ - [ ] [TYP_010] Problème sur le portail intranet (non versionné)
+ - [ ] [TYP_011] Problème dans la documentation du pas à pas
+ - [ ] [TYP_012] Problème dans un paramétrage spécifique (ex-dev. spec)
+ - [ ] [TYP_013] Problème sur le serveur (manque de place, ...)
+ - [ ] [TYP_014] Problème sur des données non-prévues
+ - [ ] [TYP_015] Problème sur les pré-requis
+ - [ ] [TYP_016] Problème à la mise à jour
+ - [ ] [TYP_017] Problème de pré-requis avec l'architecture du client
+ - [ ] [TYP_018] Problème de l'exploitant qui ne suit pas la documentation
+
+<!-- NE RIEN MODIFIER AU DESSUS DE CETTE LIGNE ! -->
+<!-- Instructions : valider ce commentaire, puis cocher les cases correspondantes -->
