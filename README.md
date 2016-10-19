@@ -14,6 +14,7 @@
 
 - Download the **.editorconfig** file from this repo.
 - Place it in your project root folder.
+- Install EditorConfig with Package Control (for Sublim Text only).
 - Restart your editor.
 
 ## <a name='explanations'>Explanations</a>
